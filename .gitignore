@@ -1,0 +1,4 @@
+.env
+docker/docker-compose.yml
+docker/postgresql.conf
+datasets/
